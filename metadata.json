@@ -1,0 +1,5 @@
+{
+  "name": "CineSync Movie Room",
+  "description": "A collaborative movie room where friends can browse movies together and watch them in perfect synchronization.",
+  "requestFramePermissions": []
+}
